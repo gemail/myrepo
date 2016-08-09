@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote fetch="https://github.com/" name="origin"/>
+  <default remote="origin" revision="master"/>
+  <project name="herefriend" path="gemail/herefriend"/>
+  <project name="getuiserver" path="gemail/getuiserver"/>
+</manifest>
