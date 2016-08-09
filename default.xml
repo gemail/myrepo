@@ -2,6 +2,6 @@
 <manifest>
   <remote fetch="https://github.com/" name="origin"/>
   <default remote="origin" revision="master"/>
-  <project name="herefriend" path="gemail/herefriend"/>
-  <project name="getuiserver" path="gemail/getuiserver"/>
+  <project name="gemail/herefriend" path="herefriend"/>
+  <project name="gemail/getuiserver" path="getuiserver"/>
 </manifest>
