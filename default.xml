@@ -3,6 +3,5 @@
     <remote fetch="git@github.com:" name="origin"/>
   <default remote="origin" revision="master"/>
   <project name="gemail/herefriend" path="herefriend"/>
-  <project name="gemail/getuiserver" path="getuiserver"/>
   <project name="gemail/myrepo" path="myrepo"/>
 </manifest>
